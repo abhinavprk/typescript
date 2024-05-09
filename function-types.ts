@@ -12,10 +12,13 @@ function yourName():undefined {
 }
 
 function thisName():undefined {
+    console.warn("undefined");
 }
 
 function thatName() {
+    console.warn('no type');
 }
 
 function youName():void {
+    console.warn('void');
 }
