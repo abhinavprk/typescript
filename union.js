@@ -5,7 +5,7 @@ function combine(a, b) {
         return a + b;
     }
     else {
-        return a + ' ' + b;
+        return a.toString() + ' ' + b.toString();
     }
 }
 console.warn(combine(5, 20));
