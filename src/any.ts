@@ -6,3 +6,6 @@ anyVal = true;
 
 let stringAndNumber: string | number = "abhi";
 stringAndNumber = 10;
+
+let computer;
+
