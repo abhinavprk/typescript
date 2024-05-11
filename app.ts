@@ -1,11 +1,11 @@
-function add(n1:number, n2:number){
+function addNumber(n1:number, n2:number){
     return n1 + n2;
 }
 
-let result = add(5,8);
+let result = addNumber(5,8);
 console.warn(result);
 
-let data = 'I';
+let appData = 'I';
 
 let noData;
 noData = true;

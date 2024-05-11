@@ -1,4 +1,4 @@
-var myVal = "10";
+let myVal = "10";
 myVal = 44;
 function combine(a, b) {
     if (typeof a === 'number' && typeof b === 'number') {

@@ -1,8 +1,8 @@
-var person = {
+const person = {
     name: "Abhinav",
     age: 27
 };
-var personA = {
+const personA = {
     name: "Rahul",
     age: 27
 };

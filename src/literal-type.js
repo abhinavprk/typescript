@@ -1,4 +1,4 @@
-var literal = 5;
+let literal = 5;
 literal = "abhinav";
 function combineHere(a, b, inputType) {
     if (inputType === 'number') {
