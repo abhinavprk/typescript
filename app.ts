@@ -11,3 +11,6 @@ let noData;
 noData = true;
 noData = 10;
 noData = "String";
+
+let abhinav:number = 34;
+const anu = "hello";

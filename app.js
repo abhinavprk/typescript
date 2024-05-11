@@ -8,3 +8,5 @@ let noData;
 noData = true;
 noData = 10;
 noData = "String";
+let abhinav = 34;
+const anu = "hello";
