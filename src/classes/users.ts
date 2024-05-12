@@ -1,15 +1,14 @@
-class Users{
-    name: string;
-    email: string;
-constructor(name:string, email:string){
+class Users {
+  name:string;
+  email:string;
+
+  constructor(name: string, email: string) {
     this.name = name;
     this.email = email;
-}
-
-addUser(user:string){
+  }
+  addUser(user: string) {
     return user.concat(" is added!");
-}
-
+  }
 }
 
 let user1 = new Users("Abhinav", "email@email.com");
